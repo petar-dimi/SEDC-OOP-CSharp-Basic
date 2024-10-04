@@ -26,15 +26,15 @@ namespace Homework06
 
         public string Eat()
         {
-            return "Dog is now eating";
+            return $"{Name} is now eating";
         }
         public  string Play()
         {
-            return "Dog is now playing";
+            return $"{Name} is now playing";
         }
         public  string ChasingTail()
         {
-            return "Dog is now chasing it's tail";
+            return $"{Name} is now chasing it's tail";
         }
     }
 }
