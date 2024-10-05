@@ -26,7 +26,7 @@ namespace Class07_Classwork
         }
         public void Talk(string text)
         {
-            Console.WriteLine($"Human{Name} is saying {text}");
+            Console.WriteLine($"Person {Name} is saying {text}");
         }
 
     }
