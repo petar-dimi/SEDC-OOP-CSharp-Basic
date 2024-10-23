@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Task 01
+            // Task 01 AverageNumber
             Console.WriteLine("Average Number");
             Console.WriteLine("Enter the first number");
             float num1 = float.Parse(Console.ReadLine());
@@ -17,7 +17,7 @@
             float average = (num1 + num2 + num3 + num4 ) / 4 ;
             Console.WriteLine($"The average of {num1} {num2} {num3} {num4} is {average} ");
 
-            // Task 02
+            // Task 02 SwapNumber
             Console.WriteLine("SwapNumbers");
             Console.WriteLine("Enter the first whole number");
             int num5 = int.Parse(Console.ReadLine());
