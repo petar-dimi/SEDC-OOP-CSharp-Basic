@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            //Task 01
+            //Task 01 RealCalculator
             Console.WriteLine("hello");
             Console.WriteLine("\nWelcome to the Real calculator app\n");
             float num1;
@@ -79,7 +79,7 @@
         
             }
 
-            //Task 02
+            //Task 02 all numbers from
             Console.WriteLine("\n Enter a number APP\n");
             
             
