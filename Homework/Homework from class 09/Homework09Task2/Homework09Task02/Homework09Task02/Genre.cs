@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Homework09Task02
 {
-    internal class Genre
+    public enum Genre
     {
+        Rock,
+        Hip_Hop,
+        Techno,
+        Classical
     }
 }
